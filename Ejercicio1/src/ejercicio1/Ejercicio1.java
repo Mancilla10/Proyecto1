@@ -5,6 +5,8 @@
  */
 package ejercicio1;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Mancilla
@@ -15,7 +17,7 @@ public class Ejercicio1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Hola Mundo");
     }
     
 }
